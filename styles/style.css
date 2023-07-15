@@ -31,10 +31,15 @@ h2{
 .btn{
     margin-top: 50px;
     padding: 20px;
-    color: white;
+   
     background: #363636;
-    font-size: large;
+
     border: none;
+}
+.btn a{
+    color: white;
+    font-size: large;
+    text-decoration: none;
 }
 footer{
     text-align: center;
